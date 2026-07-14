@@ -5,7 +5,7 @@
 **Feature:** Checkout Loading State
 **Module:** Checkout
 **Application:** Sell Here
-**Tester:** Desmond Qoza
+**Tester:** Desmond-intech
 **Test Type:** Manual Regression Testing
 **Browser:** Google Chrome
 **Operating System:** Windows 10
