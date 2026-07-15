@@ -65,6 +65,21 @@ This case study documents the investigation process, the findings, the implement
 
 ---
 
+# Investigation Timeline (summary)
+
+## Investigation Timeline
+
+| Step | Investigation Milestone                          |
+| :--: | ------------------------------------------------ |
+|  1   | Intermittent authentication behaviour observed.  |
+|  2   | Redundant listener dispatches identified.        |
+|  3   | Unnecessary sign-in API processing discovered.   |
+|  4   | Authentication timing dependency isolated.       |
+|  5   | Email verification configuration corrected.      |
+|  6   | Authentication workflow stabilized and verified. |
+
+---
+
 # System Architecture
 
 The authentication workflow coordinates multiple asynchronous systems before the application reaches a stable authenticated state.
